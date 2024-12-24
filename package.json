@@ -19,5 +19,15 @@
     "eslint": "^9",
     "eslint-config-next": "15.1.2",
     "@eslint/eslintrc": "^3"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "keywords": [
+    "Events",
+    "Bookings",
+    "Party",
+    "Celebration"
+  ],
+  "author": "Aditya",
+  "license": "ISC"
 }
